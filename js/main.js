@@ -1,0 +1,3 @@
+function sam() {
+  return "ss";
+}
